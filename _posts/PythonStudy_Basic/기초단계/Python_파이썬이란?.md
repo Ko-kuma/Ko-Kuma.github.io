@@ -1,12 +1,11 @@
 ---
 layout: post
-title: "[Python] 1일차 - 파이썬(Python)이란 무엇인가?"
+title: "[Python]파이썬(Python)이란 무엇인가?"
 date: 2026-01-08
 categories: [Python, Study, Basic]
 tags: [Python, Programming, Basics]
 ---
-
-# 1일차 : 파이썬(Python)이란?
+## 파이썬(Python)이란?
 
 ## 1. 파이썬의 정의
 **파이썬(Python)**은 1991년 네덜란드의 프로그래머 **귀도 반 로섬(Guido van Rossum)**이 발표한  
