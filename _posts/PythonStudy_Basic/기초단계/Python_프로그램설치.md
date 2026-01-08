@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[Python] 실행 환경 설정과 파이썬 실행 방법"
-date: 2026-01-08
+date: 2026-01-09
 categories: [Python, Study, Basic]
 tags: [Python, Programming, Basics]
 ---
