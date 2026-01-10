@@ -2,7 +2,7 @@
 /* 폰트 파일 등록하기 (@font-face) */
 @font-face {
   font-family: 'Nalgae';  /* 이제부터 이 폰트를 'Nalgae'라고 부르겠습니다 */
-  src: url('assets/fonts/Hakgyoansim_NalgaeR.ttf') format('truetype');
+  src: url('/assets/fonts/Hakgyoansim_NalgaeR.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
