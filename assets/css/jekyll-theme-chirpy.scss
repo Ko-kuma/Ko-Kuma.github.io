@@ -1,21 +1,16 @@
-
-/* 폰트 파일 등록하기 (@font-face) */
+/* 폰트 파일 등록하기 */
 @font-face {
-  font-family: 'Nalgae';  /* 이제부터 이 폰트를 'Nalgae'라고 부르겠습니다 */
-  src: url('/assets/fonts/Hakgyoansim_NalgaeR.ttf') format('truetype');
+  font-family: 'Nalgae';
+  /* 점 2개(..)로 변경했습니다 */
+  src: url('../fonts/Hakgyoansim_NalgaeR.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
 
-/* 본문에 적용하기 */
 body {
-  /* Nalgae를 최우선으로, 없으면 다른 폰트 사용 */
   font-family: 'Nalgae', "Pretendard", -apple-system, BlinkMacSystemFont, system-ui, sans-serif !important;
 }
 
-/* 제목에도 적용하기 */
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Nalgae', sans-serif !important;
 }
-
-/* --- 설정 끝 --- */
