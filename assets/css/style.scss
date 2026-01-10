@@ -1,6 +1,11 @@
+---
+---
+
+@import "jekyll-theme-chirpy";
+
+/* 여기서부터 폰트 설정 */
 @font-face {
   font-family: 'Nalgae';
-  /* 경로 계산? 필요 없습니다. 그냥 전체 주소를 넣습니다. */
   src: url('https://ko-kuma.github.io/assets/fonts/Hakgyoansim_NalgaeR.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
