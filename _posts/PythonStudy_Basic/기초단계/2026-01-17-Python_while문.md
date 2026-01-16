@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Python] 파이썬 제어문 - while문(반복문)"
+title: "[Python] 파이썬 제어문, while문(반복문)"
 date: 2026-01-17
 categories: [Python_Basic, Study]
 tags: [python, while, loop, control flow]
