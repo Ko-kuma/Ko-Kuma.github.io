@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "Python 제어문 문제풀이 (if, for, while) - 초급"
-subtitle: "파이썬 제어문 학습을 위한 문제와 풀이"
+title: "Python 제어문 문제풀이 (if, for, while)"
 date: 2026-01-18
-categories: [Python_Basic, Study]
+categories: [Python_Basic, Quiz]
 tags: [Python, 제어문, if, for, while, 초급]
 ---
 
